@@ -1,7 +1,7 @@
 # 🚀 Welcome to Border Tech
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/Border--Tech-Software%20%26%20Platform-blue?style=for-the-badge&logo=github](https://github.com/border-tech/.github/blob/main/Bo.png)" alt="Border Tech Header" />
+  <img src="[https://img.shields.io/badge/Border--Tech-Software%20%26%20Platform-blue?style=for-the-badge&logo=github](https://github.com/border-tech/.github/blob/main/Bo.PNG)" alt="Border Tech Header" />
 </p>
 
 ### 🌐 Breaking Boundaries, Connecting Worlds

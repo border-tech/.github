@@ -29,8 +29,8 @@
 ### 📫 Get in Touch
 我們隨時歡迎技術交流與商業合作！
 
-- **Official Email:** [border.tech2026@gmail.com](mailto:border.tech2026@gmail.com)
-- **Website:** Coming soon...
+- **Official Email:** [Contact us](mailto:border.tech2026@gmail.com)
+- **Website:** [BorderTech](https://border-tech.github.io/)
 - **Status:** 🟢 Active & Developing
 
 ---

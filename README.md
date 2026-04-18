@@ -29,7 +29,7 @@
 ### 📫 Get in Touch
 我們隨時歡迎技術交流與商業合作！
 
-- **Official Email:** [border.tech@gmail.com](mailto:border.tech@gmail.com)
+- **Official Email:** [border.tech2026@gmail.com](mailto:border.tech2026@gmail.com)
 - **Website:** Coming soon...
 - **Status:** 🟢 Active & Developing
 
